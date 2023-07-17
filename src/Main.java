@@ -55,7 +55,7 @@ public class Main {
         howMany = howMany + 94 ;
         System.out.println();
         var workTime = hours / howMany ;
-        System.out.println ("Если в компании работает " + howMany + " человек, то всего " + workTime + "часов работы может быть поделенно между сотруниками") ;
+        System.out.println ("Если в компании работает " + howMany + " человек, то всего " + workTime + " часов работы может быть поделенно между сотруниками") ;
 
     }
 }
